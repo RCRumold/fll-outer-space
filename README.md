@@ -1,2 +1,3 @@
 # fll-outer-space
-First Lego League For Faxon Elementary
+## First Lego League's 2018 Project, Outer Space
+### Faxon Elementary School, Kansas City Public Schools (KCPS)
